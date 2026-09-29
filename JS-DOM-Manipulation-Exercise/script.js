@@ -188,7 +188,7 @@ btn.addEventListener("submit", function(event){
     nextId++;
     input.value = "";
 
-// b1
+
 charCount.textContent="0/50"
 
     renderTasks()
